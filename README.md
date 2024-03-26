@@ -8,5 +8,5 @@ Utilized:
 
 Concepts:
 1. MPLS
-2. Internet Gateway Protocol (IGP)
+2. Interior Gateway Protocol (IGP)
 3. Open-Shortest Path First (OSPF)
